@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.iotoole.android.keyboardsamples"
+        applicationId "com.iotoole.android.phonenumberspinner"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

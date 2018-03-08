@@ -1,4 +1,4 @@
-package com.iotoole.android.keyboardsamples;
+package com.iotoole.android.phonenumberspinner;
 
 import org.junit.Test;
 
